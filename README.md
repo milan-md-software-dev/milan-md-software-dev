@@ -13,7 +13,7 @@
 - 🔭 I’m currently working as a medical doctor while also working on improving my software development skills
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: Humans have 2 types of photoreceptor cells in their eyes - while peacock mantis shrimps have 16!
--->
+
 
 ### 🛠️ Languages and tools:
 
